@@ -218,3 +218,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Translation research data, model weights and generated runs
+/data/*
+!/data/README.md
+!/data/sample_raw.jsonl
+!/data/sample_train.jsonl
+/outputs/
+/checkpoints/
+/models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.arrow
+*.parquet
+*.bak
+*.backup_*
+.env.*

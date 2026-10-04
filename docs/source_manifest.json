@@ -1,0 +1,48 @@
+{
+  "repository": "johangjoo/Translate-Project",
+  "commit": "19dad8fe171de62d14da1147b0f4b51fd1ab1d92",
+  "files": [
+    {
+      "source_path": "LoRAScript/inference_lora_improved.py",
+      "archive_path": "archive/LoRAScript/inference_lora_improved.py",
+      "sha256": "ee21fc0c455bf07302348004a65ce7a323abdbe6be8ccb2bc6d29ba8992b8e72",
+      "git_blob_sha": "dc5a65253a5a6fe06f52a335a2a551a7c8bf740f"
+    },
+    {
+      "source_path": "LoRAScript/prepare_dataset_flexible.py",
+      "archive_path": "archive/LoRAScript/prepare_dataset_flexible.py",
+      "sha256": "867b81a3a167d285f58ffbf40957aa9de21bbdd45b34bb1c61b4c14a64d81ed2",
+      "git_blob_sha": "b99c24a3b9835ce9a7bd5ffcd639c559c73d2429"
+    },
+    {
+      "source_path": "LoRAScript/requirements.txt",
+      "archive_path": "archive/LoRAScript/requirements.txt",
+      "sha256": "7ae87176cacb55467a64fc2e6bfd055617425b7f23ac870318692b98c86db862",
+      "git_blob_sha": "df94e4c591dba740fbba84c283846ef4f1ba2846"
+    },
+    {
+      "source_path": "LoRAScript/train_qwen_14b_lora.py",
+      "archive_path": "archive/LoRAScript/train_qwen_14b_lora.py",
+      "sha256": "fd06b9e5b63a0a4207546c700cfa4d5ce652a67d9af7bc0ad96649656ce60bbd",
+      "git_blob_sha": "4f4df5d13e41bc9e3a96f7d8bf82bde662c6154b"
+    },
+    {
+      "source_path": "LoRAScript/train_qwen_lora_sec.py",
+      "archive_path": "archive/LoRAScript/train_qwen_lora_sec.py",
+      "sha256": "2395baa375cf883486abecce91250f0e25a6a185c3f1623db5f53eaa2f808185",
+      "git_blob_sha": "a2c3f96bab2e5602cf505f8ba2df9a5a26acc38a"
+    },
+    {
+      "source_path": "LoRAScript/transJson.py",
+      "archive_path": "archive/LoRAScript/transJson.py",
+      "sha256": "bcfb64ed7a28e127654ce6734e00d88b762c4be85d030805e5946bcbdf2de78d",
+      "git_blob_sha": "649233b57a037f7cc35e09e1b744e31dd8823eef"
+    },
+    {
+      "source_path": "valida.py",
+      "archive_path": "archive/valida.py",
+      "sha256": "f02a7afbab89691f94ca08fe42ab63bdfc01d8ea5f7d46d01c4b22bb82f57284",
+      "git_blob_sha": "1678afa47dd4482bf415afb4915205a42c24355d"
+    }
+  ]
+}

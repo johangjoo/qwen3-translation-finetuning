@@ -1,0 +1,11 @@
+# Reconstruction target, NOT the unknown historical training environment.
+# Install a CUDA-enabled PyTorch build suitable for your GPU first.
+torch>=2.6,<3
+transformers>=4.51.3,<4.54
+trl==0.19.1
+peft>=0.15,<0.17
+datasets>=3.0,<4
+bitsandbytes>=0.45,<0.47
+accelerate>=1.4,<2
+tensorboard>=2.15,<3
+PyYAML==6.0.2
